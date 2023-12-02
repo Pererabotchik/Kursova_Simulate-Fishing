@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulate Fishing", "Simulate Fishing\Simulate Fishing.csproj", "{3BE6E438-EDBC-47AD-92E5-2F9DB70B29E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestFishing", "UnitTestFishing\UnitTestFishing.csproj", "{D8AA39F8-C83E-44C0-AF55-5F27BD4D9B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE6E438-EDBC-47AD-92E5-2F9DB70B29E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE6E438-EDBC-47AD-92E5-2F9DB70B29E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE6E438-EDBC-47AD-92E5-2F9DB70B29E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE6E438-EDBC-47AD-92E5-2F9DB70B29E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8AA39F8-C83E-44C0-AF55-5F27BD4D9B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AA39F8-C83E-44C0-AF55-5F27BD4D9B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AA39F8-C83E-44C0-AF55-5F27BD4D9B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AA39F8-C83E-44C0-AF55-5F27BD4D9B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB7930B-AA98-4461-8B9C-555B5A5DE6CC}
+	EndGlobalSection
+EndGlobal
